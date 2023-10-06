@@ -7,3 +7,16 @@ This repository contains a comprehensive project for classifying images of dogs 
 3. Training and Evaluation: Jupyter notebooks or Python scripts for model training and evaluation, including accuracy, loss, and confusion matrix analysis.
 4. Model Deployment: Instructions and scripts for deploying the trained model for real-world inference.
 5. Fine-Tuning: Guidance on fine-tuning hyperparameters and experimenting with different model configurations.
+
+# Requirements
+1. Python 3.x
+2. Deep learning framework (e.g., TensorFlow)
+3. Data science libraries (e.g., NumPy, pandas)
+4. Jupyter Notebook (optional, for experimenting)
+
+# Acknowledgments
+1. Kaggle for providing the dataset.
+2. Inspiration from the deep learning community and open-source projects.
+   
+# Feedback and Contributions
+Contributions, bug reports, and feedback are welcome! Feel free to open issues or submit pull requests to improve this project.
